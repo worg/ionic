@@ -1,0 +1,88 @@
+'use strict';
+//$()
+function hideLoader(){
+  $('#main').fadeOut(350, function(e){
+    $('#viewer').fadeIn(350);
+  });
+}
+
+// Specify the main script used to create a new PDF.JS web worker.
+    // In production, change this to point to the combined `pdf.js` file.
+    PDFJS.workerSrc = 'pdf.file';
+//
+// Fetch the PDF document from the URL using promices
+//
+$('#viewer').hide();
+//bind show credits function
+$('#showCred').click(function (){
+      $('#tldr').slideToggle(350, function(e){
+        $('body').animate({scrollTop:$('body').height()}, 400);
+      });
+});
+
+var pdfDoc = null,
+    scale = 1.0;
+//(window.pdfFile ? window.pdfFile : 'file.pdf')
+Ti.App.addEventListener('renderPDF', function(e){
+  PDFJS.getDocument(dataToArray(e.pdf)).then(function(pdf) {
+    // Using promise to fetch the page
+    pdfDoc = pdf;
+    renderPages(pdfDoc);
+  });
+});
+
+function renderPages(pdf){
+  var num = pdf.numPages;
+  var i = 1;
+  var canvas = document.createElement('canvas');
+  var container = document.getElementById('container');
+
+  createPage(canvas, pdf, i++, function pageRenderingComplete() {  
+      var img = document.createElement('img');
+      //Extract the page image from canvas and create an IMG element for that
+      img.src = canvas.toDataURL();
+      container.appendChild(img);
+      if(i > num){
+        //we clear the canvas
+        canvas.getContext('2d').clearRect(0, 0, canvas.width, canvas.height);
+        //if we reach the end we should stop and hide loader
+        hideLoader();
+        return;
+      }
+    // Continue rendering of the next page
+    createPage(canvas, pdf, i++, pageRenderingComplete);
+  });
+}
+
+function createPage(canvas, pdf, pageNumber, callback){
+    pdf.getPage(pageNumber).then(function(page) {
+    var viewport = page.getViewport(scale);
+    
+    //var canvas = document.createElement('canvas');
+    var context = canvas.getContext('2d');
+    canvas.height = viewport.height;
+    canvas.width = viewport.width;
+    
+    //
+    // Render PDF page into canvas context
+    //
+    var renderContext = {
+      canvasContext: context,
+      viewport: viewport
+    };
+    page.render(renderContext).then(callback);
+  });
+}
+
+function dataToArray(data) {
+  var raw = window.atob(data);
+  var rawLength = raw.length;
+  var array = new Uint8Array(new ArrayBuffer(rawLength));
+
+  for(var i = 0; i < rawLength; ++i) {
+    array[i] = raw.charCodeAt(i);
+  }
+  return array;
+}
+
+

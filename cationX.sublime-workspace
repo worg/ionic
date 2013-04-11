@@ -1,0 +1,1664 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"remov",
+				"remove"
+			],
+			[
+				"web",
+				"webView"
+			],
+			[
+				"bar",
+				"barcode"
+			],
+			[
+				"data",
+				"dataToArray"
+			],
+			[
+				"pdf",
+				"pdf2"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"render",
+				"renderPDF"
+			],
+			[
+				"get",
+				"getBool"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"logo",
+				"logoutUser"
+			],
+			[
+				"Pro",
+				"Properties"
+			],
+			[
+				"backgroundC",
+				"backgroundColor:'black"
+			],
+			[
+				"chec",
+				"Checkin"
+			],
+			[
+				"st",
+				"stringify"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"ch",
+				"checkin"
+			],
+			[
+				"styleCont",
+				"styleContainer"
+			],
+			[
+				"crea",
+				"createView"
+			],
+			[
+				"o",
+				"Op"
+			],
+			[
+				"mul",
+				"multiplyE"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"colo",
+				"colorbox"
+			],
+			[
+				"containe",
+				"container_12"
+			],
+			[
+				"bro",
+				"browser"
+			],
+			[
+				"query",
+				"jQuery"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"bord-",
+				"border-bottom"
+			],
+			[
+				"is_",
+				"is_active_sidebar"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"get_the_",
+				"get_the_ID"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"under",
+				"underline"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"openingM",
+				"openingMin"
+			],
+			[
+				"c",
+				"characteristics"
+			],
+			[
+				"show",
+				"showError"
+			],
+			[
+				"edit",
+				"editPlace"
+			],
+			[
+				"se",
+				"selected=\"selected"
+			],
+			[
+				"closing",
+				"closingMon"
+			],
+			[
+				"opening",
+				"openingMon"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"addProductS",
+				"addProductSubcat"
+			],
+			[
+				"idSubcat",
+				"idSubcategory"
+			],
+			[
+				"addProd",
+				"addProduct"
+			],
+			[
+				"product",
+				"products_m"
+			],
+			[
+				"idSub",
+				"idSubclass"
+			],
+			[
+				"cl",
+				"class=\"message"
+			],
+			[
+				"idS",
+				"idSubclass"
+			],
+			[
+				"idsubc",
+				"idSubclass"
+			],
+			[
+				"subcat",
+				"subcatText"
+			],
+			[
+				"idSubc",
+				"idSubcat"
+			],
+			[
+				"auto",
+				"autoproducts"
+			],
+			[
+				"produt",
+				"products"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"getB",
+				"getByState"
+			],
+			[
+				"last",
+				"lastlogin"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"suba",
+				"subcategory"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"subcategor",
+				"subcategory"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"user_p",
+				"user_photo"
+			],
+			[
+				"result",
+				"results"
+			],
+			[
+				"RES",
+				"result"
+			],
+			[
+				"getBy",
+				"getByID"
+			],
+			[
+				"admin",
+				"admin/user"
+			],
+			[
+				"user_pas",
+				"user_pass_conf"
+			],
+			[
+				"view",
+				"view"
+			],
+			[
+				"thr",
+				"throbber"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"media",
+				"mediaPath"
+			],
+			[
+				"elemen",
+				"element"
+			],
+			[
+				"eleme",
+				"element"
+			],
+			[
+				"getMedia",
+				"getMediaByTitle"
+			],
+			[
+				"mode",
+				"model"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"state_",
+				"state_id"
+			],
+			[
+				"getb",
+				"getByID"
+			],
+			[
+				"subca",
+				"subcategory"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"subcateg",
+				"subcategory"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"cat_",
+				"cat_id"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"bas",
+				"base_url"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"v",
+				"view"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"vie",
+				"viewbody"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"producto",
+				"productos_movac"
+			],
+			[
+				"the",
+				"the_post"
+			],
+			[
+				"html",
+				"html_save"
+			],
+			[
+				"html_",
+				"html_form"
+			],
+			[
+				"html_bo",
+				"html_body_conf"
+			],
+			[
+				"tin",
+				"tinyMCE"
+			],
+			[
+				"ti",
+				"tiny_mce"
+			],
+			[
+				"dnc",
+				"dnc_budgets"
+			],
+			[
+				"bu",
+				"budget"
+			],
+			[
+				"budget",
+				"budget_id"
+			],
+			[
+				"bud",
+				"budgetID"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"mod",
+				"modify"
+			],
+			[
+				"users",
+				"users_m"
+			],
+			[
+				"token",
+				"tokenurl"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"isVe",
+				"isVegan"
+			],
+			[
+				"place",
+				"places_m"
+			],
+			[
+				"openi",
+				"openingMin"
+			],
+			[
+				"count",
+				"country"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"str_pad",
+				"STR_PAD_LEFT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Resources/html/viewer.html",
+			"settings":
+			{
+				"buffer_size": 1253,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Resources/app.js",
+			"settings":
+			{
+				"buffer_size": 2433,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*\n * Ionic Educational Scanner App\n * Copyright under GPL v2 License Terms\n * 2013 Hiram J. Perez <worg@linxumail.org>, Jose Antonio Garcia <jgarcia@upmh.edu.mx>\n * Barcodes are in EAN13 standard\n */\n\n(function() {\nvar scanWin = Titanium.UI.createWindow();\n\nvar infoWin = Ti.UI.createWindow({\n    title: 'Cationes',\n    backgroundColor: '#2D2D2D',\n    exitOnClose: false\n});\n\n// load the Scandit SDK module\nvar scanditsdk = require(\"com.mirasense.scanditsdk\"); \n\n// disable the status bar for the camera view on the iphone and ipad\nif(Ti.Platform.osname == 'iphone' || Ti.Platform.osname == 'ipad'){\n     Titanium.UI.iPhone.statusBarHidden = true;\n}\n\nvar webView = Ti.UI.createWebView({\n    url:'/html/viewer.html'\n});\n\n/***DEBUG***/\n//var file = Ti.Filesystem.getFile(Ti.Filesystem.resourcesDirectory, 'html','sl', 'Zaratustra1.pdf');\n\n\n// instantiate the Scandit SDK Barcode Picker view\nvar picker = scanditsdk.createView({\n    \"width\":Ti.Platform.displayCaps.platformWidth,\n    \"height\":Ti.Platform.displayCaps.platformHeight\n}); \n\ninfoWin.add(webView);\n\n// Initialize the barcode picker,\npicker.init(\"fjCZtnAvEeKbwJ7Tz2wvUhE6BiI1y5ePzTGJhIf1R8U\", 0);\n//seteaomoss los mensajes \npicker.setTextForInitialScanScreenState(\"Alínea el código con el rectángulo\");\npicker.setTextForBarcodeDecodingInProgress('Escaneando…');\n\n// Set callback functions for when scanning succeeds and for when the\n// scanning is canceled.\n//var file, blob, buff, stream;\npicker.setSuccessCallback(function(e) {\n    picker.stopScanning();\n    alert('Scanning');\n    var file = Ti.Filesystem.getFile(Ti.Filesystem.resourcesDirectory, 'html', 'sl', e.barcode + '.pdf'); // a partir del codigo obtenemos el archivo\n    if(file.exists()){\n            var blob = file.read();\n            var b64 = Ti.Utils.base64encode(blob);\n            infoWin.open({modal:true, loading: true});\n            setTimeout(function(e){\n                Ti.App.fireEvent('renderPDF', { pdf: b64.text});\n            },4000); // lanzamos el renderer del pdf en el navegador            \n    }else{\n        alert('Código erroneo, intente de nuevo');\n    }\n});\n\npicker.setCancelCallback(function(e) { alert(\"Cancelado\");}); \n// add a tool bar at the bottom of the scan view with a cancel button\n// (iphone/ipad only)\npicker.showToolBar(true);\n\n \n// Create a window to add the picker to and display it.\nscanWin.add(picker);\npicker.startScanning();\nscanWin.open();\n})();\n\n",
+			"settings":
+			{
+				"buffer_size": 2417,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Resources/html/pdfflip.file",
+			"settings":
+			{
+				"buffer_size": 2408,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Resources/html/pdf.file",
+			"settings":
+			{
+				"buffer_size": 1541274,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Resources/html/style.css",
+			"settings":
+			{
+				"buffer_size": 3105,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss:ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss:php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss:p",
+				"Set Syntax: PHP"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ss:hp",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ionic/Resources/app.js",
+		"/D/xampp/htdocs/viewer/pdfflip.file",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-checkin/build/android/AndroidManifest.xml",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-checkin/tiapp.xml",
+		"/C/Users/worg/Documents/localdev/benCoding.AlarmManager/Module/build.properties",
+		"/C/Users/worg/Documents/localdev/benCoding.AlarmManager/Module/build.xml",
+		"/C/Users/worg/AppData/Roaming/Titanium/mobilesdk/win32/3.0.2.GA/win32/findpython.bat",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-checkin/Resources/lib/acs.js",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-checkin/Resources/app.js",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-checkin/Resources/ui/handheld/android/wCheckin.js",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-checkin/Resources/ui/handheld/android/wAuthentication.js",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-checkin/Resources/-ui/ui.js",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-checkin/build.log",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-checkin/.project",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-checkin/manifest",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-checkin/Resources/ui/common/_visits/vVisits.js",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-checkin/Resources/ui/common/_visits/cVisits.js",
+		"/C/Users/worg/Documents/Titanium_Studio_Workspace/ck-digital-sales-mobile-android/Resources/.DS_Store",
+		"/C/Users/worg/AppData/Local/Temp/mnlt2_by_fanco86-d31gx6o/How to install this.txt",
+		"/C/Users/worg/AppData/Local/Temp/cajero.cpp",
+		"/E/xampp/htdocs/test/css/grid.css",
+		"/D/instaladores/Activadores Varios/BootSLIC/Intel_BIOS_EFI_SLIC_Tool/RUNME.bat",
+		"/D/instaladores/Activadores Varios/BootSLIC/Intel_BIOS_EFI_SLIC_Tool/README.txt",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/post-grid-small.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/js/script.js",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/css/ie.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/content.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/post-grid",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/css/960_12_col.css",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/functions.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/footer.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/editor-style.css",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/editor-style-rtl.css",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/content-status.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/page-templates/front-page.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/content-quote.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/content-page.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/content-none.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/content-link.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/content-image.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/content-aside.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/comments.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/category.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/author.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/archive.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/page-templates/products.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/plugins-needed.txt",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/tag.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/single.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/sidebar.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/sidebar-front.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/search.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/rtl.css",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/page.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/index.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/image.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/header.php",
+		"/D/xampp/htdocs/avicat/wp-content/plugins/collapsing-categories/collapsFunctions.js",
+		"/D/xampp/htdocs/avicat/wp-content/themes/avicat/page-templates/full-width.php",
+		"/D/xampp/htdocs/avicat/wp-content/plugins/collapsing-categories/readme.txt",
+		"/D/xampp/htdocs/avicat/wp-content/themes/blankSlate-theme/404.php",
+		"/D/xampp/htdocs/avicat/wp-content/themes/blankSlate-theme/style.css",
+		"/D/xampp/htdocs/avicat/wp-content/themes/blankSlate-theme/css/fonts/stylesheet.css",
+		"/D/xampp/htdocs/cseguras/css/960.css",
+		"/D/xampp/htdocs/cseguras/css/960_12_col.css",
+		"/D/xampp/htdocs/avicat/wp-content/themes/blankSlate-theme/screenshot.png",
+		"/D/xampp/htdocs/avicat/wp-content/themes/twentytwelve/functions.php",
+		"/D/instaladores/Multimedia/Renoise.v2.5.1-UNION/union.nfo",
+		"/D/instaladores/Multimedia/Renoise.v2.5.1-UNION/file_id.diz",
+		"/D/instaladores/Multimedia/Renoise.v2.5.1-UNION/Installer.dat",
+		"/D/xampp/htdocs/avicat/wp-config.php",
+		"/D/xampp/htdocs/wordpress/wp-config.php",
+		"/C/Users/worg/Dropbox/Docs/upmh/2Sem/Redes/slides",
+		"/C/Users/worg/AppData/Local/Temp/hakimel-reveal.js-v2.2-22-gcf8708f/slides_redes_ccna7/index.html",
+		"/C/Users/worg/AppData/Local/Temp/hakimel-reveal.js-v2.2-22-gcf8708f/hakimel-reveal.js-cf8708f/index.html",
+		"/C/Users/worg/AppData/Local/Temp/hakimel-reveal.js-v2.2-22-gcf8708f/hakimel-reveal.js-cf8708f/.travis.yml",
+		"/C/Users/worg/Documents/localdev/4mc_webcourse/css3/index.html",
+		"/C/Users/worg/Documents/localdev/html/index.html",
+		"/C/Users/worg/AppData/Local/Temp/Conjuntos.cpp",
+		"/C/Users/worg/Downloads/NssPro_0.52/Readme.txt",
+		"/D/instaladores/Multimedia/Native Instruments Reaktor 5 v5.8.0 UNLOCKED - R2R [deepstatus]/iNF0/R2R.nfo",
+		"/D/instaladores/Multimedia/Native Instruments Reaktor 5 v5.8.0 UNLOCKED - R2R [deepstatus]/iNF0/NFO.nfo",
+		"/D/Worg/Documents/Visual Studio 2008/Projects/RiemannBasic/RiemannBasic/codigoraro.txt",
+		"/D/Descargas/lol.txt",
+		"/D/xampp/htdocs/romanomica/app/views/edit/products.php",
+		"/D/xampp/htdocs/romanomica/app/models/workingtime_m.php",
+		"/D/xampp/htdocs/romanomica/app/models/places_m.php",
+		"/D/xampp/htdocs/romanomica/app/models/users_m.php",
+		"/D/xampp/htdocs/romanomica/app/models/products_m.php",
+		"/D/xampp/htdocs/romanomica/app/config/config.php",
+		"/D/xampp/htdocs/romanomica/app/config/database.php",
+		"/D/xampp/htdocs/romanomica/app/controllers/add.php",
+		"/D/xampp/htdocs/romanomica/js/addProducts.js",
+		"/D/xampp/htdocs/romanomica/js/main.js",
+		"/D/xampp/htdocs/romanomica/js/autoproducts.js",
+		"/D/xampp/htdocs/romanomica/app/controllers/autocomplete.php",
+		"/D/xampp/htdocs/romanomica/app/controllers/validate.php",
+		"/D/xampp/htdocs/romanomica/app/controllers/login.php",
+		"/D/xampp/htdocs/romanomica/app/views/login_view.php",
+		"/D/xampp/htdocs/romanomica/app/views/validate.php",
+		"/D/xampp/htdocs/romanomica/app/controllers/edit.php",
+		"/D/xampp/htdocs/romanomica/app/views/add/users.php",
+		"/D/xampp/htdocs/romanomica/app/views/add/products.php",
+		"/D/xampp/htdocs/romanomica/app/views/add/product_char.php",
+		"/D/xampp/htdocs/romanomica/app/views/add/places.php",
+		"/D/xampp/htdocs/romanomica/app/views/edit/places.php",
+		"/D/xampp/htdocs/romanomica/app/views/edit/users.php",
+		"/D/xampp/htdocs/romanomica/app/controllers/panel.php",
+		"/D/xampp/htdocs/romanomica/app/views/head.php",
+		"/D/xampp/htdocs/romanomica/app/views/list_places.php",
+		"/D/xampp/htdocs/romanomica/app/views/edit_view.php",
+		"/D/xampp/htdocs/romanomica/app/views/list_products.php",
+		"/D/xampp/htdocs/romanomica/js/autoplaces.js",
+		"/D/xampp/htdocs/romanomica/css/main.css",
+		"/D/xampp/htdocs/romanomica/.htaccess",
+		"/D/instaladores/Dev n Dev tools/sublimetext2/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/instaladores/Dev n Dev tools/sublimetext2/Data/Packages/User/Preferences.sublime-settings",
+		"/D/xampp/htdocs/romanomica/js/productsOther.js",
+		"/D/instaladores/Desktop Themes and Goodies/qttabbar_for_w7_default_theme_by_bluex_pl-d37ry5h/aero/info.txt",
+		"/D/instaladores/Desktop Themes and Goodies/qttabar_for_soft7_by_helkin86-d2xxpjv/QTTaBar for Soft7/Info.txt",
+		"/D/xampp/htdocs/romanomica/app/views/list_users.php",
+		"/C/Users/worg/AppData/Local/Temp/heimdall-suite-1.3.2-win32/Heimdall Suite/README.txt",
+		"/D/xampp/htdocs/cseguras/app/views/home.php",
+		"/D/xampp/htdocs/cseguras/app/controllers/home.php",
+		"/D/xampp/htdocs/cseguras/app/config/autoload.php",
+		"/D/xampp/htdocs/cseguras/js/jquery-1.8.3.js",
+		"/D/xampp/htdocs/cseguras/app/models/admin/post.php",
+		"/D/xampp/htdocs/cseguras/app/models/admin/article.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>,<open files>",
+			"",
+			"C:\\Users\\worg\\Downloads\\claudia@4mc.mx_Constructorio\\phps\\*.php",
+			"C:\\Users\\worg\\Downloads\\claudia@4mc.mx_Constructorio\\phps,*.php",
+			"C:\\Users\\worg\\Downloads\\claudia@4mc.mx - Constructorio - Logos, Tipo y Font\\phps",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scale",
+			".render",
+			"render",
+			"getDocument",
+			"getpdf",
+			"getDocument",
+			");\n",
+			"\"",
+			"app://",
+			"src=\"",
+			"param",
+			"\\",
+			"C:",
+			"/",
+			"CREATE",
+			"cloud.sess",
+			"});\n",
+			"Titanium",
+			"user",
+			"get",
+			"username",
+			"_ap",
+			"_",
+			"addch",
+			"checkin",
+			" {",
+			"info_client",
+			"make_checkin",
+			"addCheckin",
+			"addc",
+			"Titanium.",
+			"Ti.App.Properties",
+			"client",
+			"check",
+			"make_checkin",
+			"makecheckin",
+			"checkin",
+			"make_ch",
+			"check",
+			"applicat",
+			"check",
+			"App",
+			":'",
+			"});\n",
+			"authe",
+			"vlogin",
+			"stylecontainer",
+			"container",
+			"wauth",
+			"wa",
+			"info_client",
+			"make_checkin",
+			"addCheckin",
+			"checkin",
+			"client",
+			"}\n",
+			"title",
+			"avicat_load_javascript_files",
+			"');\n",
+			"script",
+			"avicat",
+			"text-decoration",
+			"hidden",
+			"box-s",
+			":after",
+			"2s",
+			"font-s",
+			":after",
+			"content",
+			"h3",
+			"0.05",
+			"15s",
+			"-webkit-transition: box-shadow 0.15s ease-in-out;",
+			"-webkit-transition: box-shadow 0.15s ease-in-out;\n    -webkit-transition: box-shadow 0.15s ease-in-out;",
+			"-webkit-transition: box-shadow 0.15s ease-in-out;",
+			"input[type=\"button\"]",
+			"-webkit-transition: all 0.2s ease-in-out;",
+			".css",
+			".js",
+			"footer",
+			".center",
+			".js",
+			"blankSlate",
+			"name=\"",
+			"home",
+			"193A6F",
+			"page-men",
+			"url('montserrat",
+			".content",
+			"style.css",
+			"shawn cope",
+			"shawn coope",
+			"blankSlate",
+			"css",
+			".js",
+			"http://localhost/redes",
+			"http://127.0.0.1:8080/",
+			"http://localhost:8080",
+			"http://127.0.0.1:8080/imgs",
+			"http://localhost:8080",
+			"[",
+			"&& $p[0]->",
+			"[]\"",
+			"[-1]",
+			"');\n",
+			"[]\"",
+			"Places",
+			"hidden",
+			"chars[<?php echo $k ?>]",
+			"[<?php echo $k ?>]\"",
+			"update",
+			"updateplace",
+			"[][]",
+			"name",
+			"[]",
+			"k",
+			"var_",
+			"$charact[",
+			"set_value('chars[]')",
+			"$closingHours[$i].','.\n                                                  $closingMin[$i].','.\n                                                  $closingAmPm[$i];",
+			"$openingHours[$i].','.\n                                                  $openingMin[$i].','.\n                                                  $openingAmPm[$i];",
+			"$openingAmPm[$i",
+			"$openingHours[$i].','.\n                                                  $openingMin[$i].','.\n                                                  $openingAmPm[$i];",
+			"$this->input->post(",
+			".description",
+			"id",
+			"#",
+			"echo set_select('opening"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"avicat",
+			"\" >",
+			"<img src=\"<?php echo base_url() ?>/img/logo_segob.png\" alt=\"logo_segob\">",
+			"<img src=\"<?php echo base_url() ?>/img/logo_cseguras.png\" alt=\"logo_main\">",
+			"<button id=\"delete\">Eliminar</button>",
+			"<button id=\"edit\">Editar</button>",
+			"<h1 class=\"frontpage\"><a href=\"<?php echo base_url() ?>\">RO<br>MA<br>NÓ<br>MI<br>CA</a></h1>",
+			"<a href=\"<?php echo base_url() ?>\"><h1 class=\"frontpage\">RO<br>MA<br>NÓ<br>MI<br>CA</h1></a>",
+			"<h1 class=\"frontpage\">RO<br>MA<br>NÓ<br>MI<br>CA</h1>",
+			"array('normalize.min','main');",
+			"em",
+			"\\/\\/retro\\.grooveshark",
+			"$this->userID",
+			"DNC_CursosCorp",
+			"'",
+			"href=\"javascript:void(0)\"",
+			"pattern2.png) no-repeat",
+			"\"",
+			"onclick=\"func(); return false;\"><div class=\"bulletInactive\"></div>",
+			"",
+			"bulletInactive\"></",
+			"onclick=\"func(); return false;\"><div class=\"bulletInactive></div>",
+			"onclick=\"func(); return false;\"><div class=\"bulletInactive\"></div>",
+			"<a href=\"http://beta.4mc.mx/cuestionario/index.php?sid=33422&newtest=Y&lang=es-MX?iframe=true&width=100%&height=100%\" rel=\"prettyPhoto[iframes]\"",
+			"&height=100%\"",
+			"<a href=\"http://beta.4mc.mx/cuestionario/index.php?sid=33422&newtest=Y&lang=es-MX?iframe=true&width=100%&height=100\" rel=\"prettyPhoto[iframes]\"",
+			"http://beta.4mc.mx/cuestionario/index.php?sid=33422&newtest=Y&lang=es-MX",
+			"class=\"close\"",
+			"class=\"next\"",
+			"img",
+			"cerr\"></div>",
+			"<div class=\"button sig\"></div>",
+			"<div class=\"button cerr\">",
+			"<div class=\"button sig\">",
+			"href=\"#\"",
+			"href=\"\"",
+			"href=\"#\"",
+			"12px",
+			"burbuja",
+			".burbuja",
+			"triangle-obtuse",
+			"naranja",
+			"magenta",
+			"azul",
+			"rojo",
+			"amarillo",
+			"FFF008",
+			"EF4035",
+			"EC008C",
+			"F7901E",
+			"007DC3",
+			"C3CF21",
+			".verde",
+			".wpui-verde",
+			"wpui-verde",
+			"0px",
+			"wpui-green",
+			".wpui-green",
+			".wpui-light",
+			".verde",
+			".wpui-light",
+			"<div class=\"polos\"><li><a style=\"padding-left:22px;\" href=\"<?php bloginfo('url'); ?>/polos/\">POLOS URBANOS</a></li></div>\n       <div class=\"corredores\"> <li><a style=\"padding-left:22px;\" href=\"<?php bloginfo('url'); ?>/corredores/\">CORREDORES URBANOS</a></li></div>",
+			"<div class=\"polos\"><li><a style=\"padding-left:22px;\" href=\"<?php bloginfo('url'); ?>/polos/\">POLOS</a></li></div>\n       <div class=\"corredores\"> <li><a style=\"padding-left:22px;\" href=\"<?php bloginfo('url'); ?>/corredores/\">CORREDORES</a></li></div>",
+			"img",
+			"resp",
+			"../img/"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Resources/html/viewer.html",
+					"settings":
+					{
+						"buffer_size": 1253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								655,
+								655
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Resources/app.js",
+					"settings":
+					{
+						"buffer_size": 2433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								932,
+								932
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 539.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 2417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2417,
+								2417
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 694.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Resources/html/pdfflip.file",
+					"settings":
+					{
+						"buffer_size": 2408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								800,
+								800
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Resources/html/pdf.file",
+					"settings":
+					{
+						"buffer_size": 1541274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51082,
+								51082
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 29898.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Resources/html/style.css",
+					"settings":
+					{
+						"buffer_size": 3105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 125.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"single.php"
+			],
+			[
+				"sing",
+				"single.php"
+			],
+			[
+				"post",
+				"post-grid.php"
+			],
+			[
+				"sc",
+				"js/script.js"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"h",
+				"header.php"
+			],
+			[
+				"grid",
+				"post-grid.php"
+			],
+			[
+				"scr",
+				"js/script.js"
+			],
+			[
+				"front",
+				"page-templates/front-page.php"
+			],
+			[
+				"sin",
+				"single.php"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"po",
+				"post-grid.php"
+			],
+			[
+				"post-g",
+				"post-grid.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"pl",
+				"plugins-needed.txt"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"f",
+				"functions.php"
+			],
+			[
+				"side",
+				"sidebar.php"
+			],
+			[
+				"cnt",
+				"content.php"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"main",
+				"css/main.css"
+			],
+			[
+				"places_",
+				"models/places_m.php"
+			],
+			[
+				"au",
+				"js/autoplaces.js"
+			],
+			[
+				"pla",
+				"views/edit/places.php"
+			],
+			[
+				"mai",
+				"css/main.css"
+			],
+			[
+				"ed",
+				"controllers/edit.php"
+			],
+			[
+				"ad",
+				"controllers/add.php"
+			],
+			[
+				"unt",
+				"untitled"
+			],
+			[
+				"edi",
+				"controllers/edit.php"
+			],
+			[
+				"list",
+				"views/list_places.php"
+			],
+			[
+				"li",
+				"views/list_places.php"
+			],
+			[
+				"ma",
+				"css/main.css"
+			],
+			[
+				"places",
+				"models/places_m.php"
+			],
+			[
+				"users",
+				"views/add/users.php"
+			],
+			[
+				"count",
+				"js/countries.js"
+			],
+			[
+				"plac",
+				"models/places_m.php"
+			],
+			[
+				"add",
+				"controllers/add.php"
+			],
+			[
+				"te",
+				"views/template.php"
+			],
+			[
+				"dat",
+				"/D/xampp/htdocs/romanomica/app/config/database.php"
+			],
+			[
+				"tem",
+				"views/template.php"
+			],
+			[
+				"prod",
+				"models/products_m.php"
+			],
+			[
+				"edit",
+				"controllers/edit.php"
+			],
+			[
+				"products_m",
+				"models/products_m.php"
+			],
+			[
+				"a",
+				"controllers/add.php"
+			],
+			[
+				"auto",
+				"js/autoproducts.js"
+			],
+			[
+				"auo",
+				"js/autoproducts.js"
+			],
+			[
+				"data",
+				"config/database.php"
+			],
+			[
+				"log",
+				"controllers/login.php"
+			],
+			[
+				"logi",
+				"views/login.php"
+			],
+			[
+				"user",
+				"controllers/admin/user.php"
+			],
+			[
+				"art",
+				"controllers/admin/article.php"
+			],
+			[
+				"me",
+				"controllers/admin/media.php"
+			],
+			[
+				"mod",
+				"views/posts/modify.php"
+			],
+			[
+				"tempa",
+				"views/template.php"
+			],
+			[
+				"home",
+				"views/home.php"
+			],
+			[
+				"ho",
+				"controllers/home.php"
+			],
+			[
+				"sideb",
+				"views/home/sidebar.php"
+			],
+			[
+				"town",
+				"models/admin/towns.php"
+			],
+			[
+				"prof",
+				"controllers/profile.php"
+			],
+			[
+				"contr",
+				"controllers/article.php"
+			],
+			[
+				"ric",
+				"js/richEditor.js"
+			],
+			[
+				"temp",
+				"views/template.php"
+			],
+			[
+				"cate",
+				"models/admin/category.php"
+			],
+			[
+				"v",
+				"views/posts/view.php"
+			],
+			[
+				"vie",
+				"views/posts/view.php"
+			],
+			[
+				"admin",
+				"controllers/admin/article.php"
+			],
+			[
+				"view",
+				"views/posts/view.php"
+			],
+			[
+				"modif",
+				"views/users/modify.php"
+			],
+			[
+				"us",
+				"controllers/admin/user.php"
+			],
+			[
+				"listme",
+				"js/listMedia.js"
+			],
+			[
+				"lis",
+				"js/listUsers.js"
+			],
+			[
+				"listu",
+				"js/listUsers.js"
+			],
+			[
+				"media",
+				"controllers/admin/media.php"
+			],
+			[
+				"med",
+				"controllers/admin/media.php"
+			],
+			[
+				"listm",
+				"js/listMedia.js"
+			],
+			[
+				"lo",
+				"controllers/login.php"
+			],
+			[
+				"ar",
+				"controllers/admin/article.php"
+			],
+			[
+				"aadd",
+				"views/media/add.php"
+			],
+			[
+				"res",
+				"css/reset.css"
+			],
+			[
+				"tow",
+				"models/admin/towns.php"
+			],
+			[
+				"rese",
+				"css/reset.css"
+			],
+			[
+				"nor",
+				"css/normalize.css"
+			],
+			[
+				"controllers",
+				"controllers/add.php"
+			],
+			[
+				"autoco",
+				"controllers/autocomplete.php"
+			],
+			[
+				"aar",
+				"models/admin/article.php"
+			],
+			[
+				"artic",
+				"controllers/admin/article.php"
+			],
+			[
+				"riche",
+				"js/richEditor.js"
+			],
+			[
+				"hom",
+				"controllers/home.php"
+			],
+			[
+				"ve",
+				"views/posts/view.php"
+			],
+			[
+				"states",
+				"models/admin/states.php"
+			],
+			[
+				"css",
+				"css/main.css"
+			],
+			[
+				"stat",
+				"models/admin/states.php"
+			],
+			[
+				"subca",
+				"models/admin/subcategory.php"
+			],
+			[
+				"listp",
+				"js/listPosts.js"
+			],
+			[
+				"arti",
+				"controllers/admin/article.php"
+			],
+			[
+				"ca",
+				"js/categories.js"
+			],
+			[
+				"sta",
+				"models/admin/state.php"
+			],
+			[
+				"admin/",
+				"controllers/admin/media.php"
+			],
+			[
+				"add/user",
+				"views/add/users.php"
+			],
+			[
+				"users_m",
+				"models/users_m.php"
+			],
+			[
+				"use",
+				"views/edit/users.php"
+			],
+			[
+				"list_pa",
+				"views/list_places.php"
+			],
+			[
+				"pane",
+				"controllers/panel.php"
+			],
+			[
+				"product_",
+				"models/products_m.php"
+			],
+			[
+				"lit",
+				"views/list_products.php"
+			],
+			[
+				"add.",
+				"controllers/add.php"
+			],
+			[
+				"edot",
+				"views/edit/products.php"
+			],
+			[
+				"func",
+				"/X/wp-content/themes/Backstreet/functions.php"
+			],
+			[
+				"pag",
+				"/X/wp-content/themes/Backstreet/page.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true
+}
