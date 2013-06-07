@@ -24,12 +24,15 @@ a:visited{
     background: transparent;
 }
 
-#container img{
+#container img,
+#container canvas{
     width: 100%;
     background-color: #FFF;
     box-shadow: 0px 0px 5px #000,
                 0px 0px 5px #000;
 }
+
+
 
 #container .turn-page{
     background-color: #FFF;

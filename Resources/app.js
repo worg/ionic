@@ -37,6 +37,7 @@ var picker = scanditsdk.createView({
 }); 
 
 infoWin.add(webView);
+webView.reload();
 
 // Initialize the barcode picker,
 picker.init("fjCZtnAvEeKbwJ7Tz2wvUhE6BiI1y5ePzTGJhIf1R8U", 0);
@@ -55,7 +56,7 @@ picker.setSuccessCallback(function(e) {
             infoWin.open({modal:true, loading: true});
             setTimeout(function(e){
                 Ti.App.fireEvent('renderPDF', { pdf: b64.text});
-            },6000); // lanzamos el renderer del pdf en el navegador            
+            },4300); // lanzamos el renderer del pdf en el navegador            
     }else{
         alert('Código erroneo, intente de nuevo');
         setTimeout(function(e){

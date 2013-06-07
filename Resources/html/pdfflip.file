@@ -2,8 +2,8 @@
 //$()
 function hideLoader(){
   $('#main').fadeOut(350, function(e){
-    $('#viewer').fadeIn(350);
-  });
+    //$('#viewer').fadeIn(350);
+  }); 
 }
 
 // Specify the main script used to create a new PDF.JS web worker.
@@ -23,6 +23,7 @@ $('#showCred').click(function (){
 var pdfDoc = null,
     scale = 1.0;
 //(window.pdfFile ? window.pdfFile : 'file.pdf')
+
 Ti.App.addEventListener('renderPDF', function(e){
   PDFJS.getDocument(dataToArray(e.pdf)).then(function(pdf) {
     // Using promise to fetch the page
@@ -36,12 +37,21 @@ function renderPages(pdf){
   var i = 1;
   var canvas = document.createElement('canvas');
   var container = document.getElementById('container');
+  var firstRendered = false;
 
   createPage(canvas, pdf, i++, function pageRenderingComplete() {  
-      var img = document.createElement('img');
+      var img = document.createElement('canvas');
+      img.height = canvas.height;
+      img.width = canvas.width;
       //Extract the page image from canvas and create an IMG element for that
-      img.src = canvas.toDataURL();
+      //img.src = canvas.toDataURL();
+      var destCtx = img.getContext('2d');
+      destCtx.drawImage(canvas, 0, 0);
       container.appendChild(img);
+      if(!firstRendered){
+        $('#viewer').fadeIn(350);
+        firstRendered = true;
+      }
       if(i > num){
         //we clear the canvas
         canvas.getContext('2d').clearRect(0, 0, canvas.width, canvas.height);
